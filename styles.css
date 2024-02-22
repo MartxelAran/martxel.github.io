@@ -98,7 +98,7 @@ footer {
         display: block; /* Mostrar los elementos de la lista como bloques */
         margin-bottom: 10px; /* Añadir un poco de espacio entre los elementos de la lista */
     }
-    #sobre-mi {
+    #sobre-mi-hijo {
         display: flex;
         flex-direction: column;
     }
